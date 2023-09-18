@@ -11,4 +11,4 @@ I'm Maksim!
 
 
 **GitHub stats**
-<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=maksimkash&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="maksimkash" /> <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksimkash&count_private=true&theme=radical&layout=compact&include_all_commits=true" alt="maksimkash" /></p>
+<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=maksimkash&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="maksimkash" /> </p>
