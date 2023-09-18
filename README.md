@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there ❤️
 
-<!--
-**MaksimkaSH/MaksimkaSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Maksim!\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Social Networks**
+
+<br><br> 
+<a href="mailto:shteinmaks@gmail.com"><img src="https://img.shields.io/badge/-shteinmaks@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/maksimka_sh"><img src="https://img.shields.io/badge/telegram-%40maksimka_sh-blue"/></a> 
+
+
+
+**GitHub stats**
+<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=maksimkash&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="maksimkash" /> <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksimkash&count_private=true&theme=radical&layout=compact&include_all_commits=true&hide=HTML,CSS,TypeScript" alt="maksimkash" /></p>
