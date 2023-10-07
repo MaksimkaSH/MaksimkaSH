@@ -10,6 +10,3 @@ I'm Maksim!
 
 
 
-**GitHub stats**
-<p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api?username=MaksimkaSh&count_private=true&include_all_commits=true&rank_icon=github&show_icons=true&theme=radical" alt="maksimkash" /> </p>
-<!-- <p align="center"><img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimkaSh&layout=compact&theme=radical" alt="maksimkash" /> </p> -->
